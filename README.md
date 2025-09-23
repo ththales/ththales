@@ -48,5 +48,4 @@ Possuo meu [Site pessoal](https://th-platform.netlify.app), onde divulgo meus tr
 ### 🌎 Onde me encontrar
 📧 [Email](mailto:ththalespuc05@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/thales-alves-ara%C3%BAjo/)  
-🌐 [Portfólio](https://th-platform.netlify.app)  
-🎮 Discord: **th_gg**
+🌐 [Portfólio](https://th-platform.netlify.app)

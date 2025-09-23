@@ -1,7 +1,7 @@
 # 💻 Thales Alves
 
 **`Desenvolvedor de Software`**  
-Prazer, sou o Thales! Estou atualmente cursando o **4° período em Ciência da Computação na PUC-GO**, com foco em **Desenvolvimento de Software e Aplicações**.  
+Prazer, sou o Thales e tenho 19 anos! Estou atualmente cursando o **4° período em Ciência da Computação na PUC-GO**, com foco em **Desenvolvimento de Software e Aplicações**.  
 Tenho experiência em projetos práticos utilizando **Front-End (HTML, CSS, JavaScript)** e **Back-End (C, C++, SQL)**.  
 
 Possuo meu [Site pessoal](https://th-platform.netlify.app), onde divulgo meus trabalhos, conteúdos de autoria própria, projetos, livros, guias e aplicações.

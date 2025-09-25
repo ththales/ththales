@@ -33,7 +33,7 @@ Tenho experiência em projetos práticos utilizando **Front-End (HTML, CSS, Java
 ### 🎓 Formação
 
 **Ciência da Computação** – Pontifícia Universidade Católica de Goiás (2024 – Presente)  
-- Algoritmos, lógica de programação, estruturas de dados, orientação a objetos, arquitetura de computadores, redes, projeto de banco de dados.  
+- Algoritmos, lógica de programação, estruturas de dados, orientação a objetos, projeto de banco de dados, redes de computadores, arquitetura de computadores.  
 
 **Cursos Complementares**  
 - English for IT 1 – Cisco Networking Academy (2025)  

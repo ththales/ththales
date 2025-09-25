@@ -1,6 +1,7 @@
 # 💻 Thales Alves
 
-**`Desenvolvedor de Software`**  
+**`Desenvolvedor de Software`** 
+
 Prazer, sou o Thales e tenho 19 anos! Estou atualmente cursando o **4° período em Ciência da Computação na PUC-GO**, com foco em **Desenvolvimento de Software e Aplicações**.  
 Tenho experiência em projetos práticos utilizando **Front-End (HTML, CSS, JavaScript)** e **Back-End (C, C++, SQL)**.  
 

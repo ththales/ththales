@@ -4,8 +4,6 @@
 Prazer, sou o Thales e tenho 19 anos! Estou atualmente cursando o **4° período em Ciência da Computação na PUC-GO**, com foco em **Desenvolvimento de Software e Aplicações**.  
 Tenho experiência em projetos práticos utilizando **Front-End (HTML, CSS, JavaScript)** e **Back-End (C, C++, SQL)**.  
 
-Possuo meu [Site pessoal](https://th-platform.netlify.app), onde divulgo meus trabalhos, conteúdos de autoria própria, projetos, livros, guias e aplicações.
-
 ---
 
 ### 🛠️ Skills
@@ -22,7 +20,7 @@ Possuo meu [Site pessoal](https://th-platform.netlify.app), onde divulgo meus tr
 
 ### 🚀 Projetos em destaque
 
-🔹 [**ThPlatform**](https://th-platform.netlify.app) – Plataforma web em **HTML + CSS** para disponibilizar conteúdos gratuitos, cursos e guias de minha autoria.  
+🔹 [**ThPlatform**](https://th-platform.netlify.app) – Plataforma web onde divulgo meus trabalhos, conteúdos de autoria própria, projetos, livros, guias e aplicações.
 
 🔹 [**The Hidden Web**](https://the-hidden-web.netlify.app) – Jogo investigativo **não-linear** que simula a exploração de um indexador fictício de links, com enigmas e criptografia.  
 

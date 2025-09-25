@@ -45,5 +45,5 @@ Tenho experiência em projetos práticos utilizando **Front-End (HTML, CSS, Java
 
 ### 🌎 Onde me encontrar
 📧 [Email](mailto:ththalespuc05@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/thales-alves-ara%C3%BAjo/)  
+💼 [LinkedIn](https://www.linkedin.com/in/thales-alves-araujo/)  
 🌐 [Portfólio](https://th-platform.netlify.app)

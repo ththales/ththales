@@ -2,9 +2,8 @@
 
 **`Desenvolvedor de Software`** 
 
-Prazer, sou o Thales e atualmente curso o 4º período de Ciência da Computação na PUC-GO, com foco em Desenvolvimento de Software e Aplicações.
-Possuo experiência prática em projetos acadêmicos e pessoais, atuando tanto em Front-End (HTML, CSS, JavaScript) quanto em Back-End (C, C++, SQL). Essa vivência me proporcionou uma base sólida em lógica de programação, resolução de problemas e desenvolvimento de soluções completas.
-Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvimento de software, onde eu possa aplicar meus conhecimentos, contribuir para projetos reais e crescer junto à equipe, adquirindo experiência no mercado de tecnologia.
+Prazer, sou o Thales e tenho 19 anos! Estou atualmente cursando o **4° período em Ciência da Computação na PUC-GO**, com foco em **Desenvolvimento de Software e Aplicações**.  
+Tenho experiência em projetos práticos utilizando **Front-End (HTML, CSS, JavaScript)** e **Back-End (C, C++, SQL)**.  
 
 ---
 
@@ -21,13 +20,23 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
 
 ### 🚀 Projetos em destaque
 
-🔹 [**ThPlatform**](https://th-platform.netlify.app) – Plataforma web onde divulgo meus trabalhos, conteúdos de autoria própria, projetos, livros, guias e aplicações.
+🔹 [**ThPlatform**](https://th-platform.netlify.app) – Minha plataforma web onde divulgo meus trabalhos, conteúdos de autoria própria, projetos, livros, guias e aplicações.
 
 🔹 [**The Hidden Web**](https://the-hidden-web.netlify.app) – Jogo investigativo **não-linear** que simula a exploração de um indexador fictício de links, com enigmas e criptografia.  
 
-🔹 [**PassGEN**](https://pass-gen-online.netlify.app) – Gerador de senhas personalizadas com dicas de boas práticas em segurança digital.  
+🔹 [**Desafio Hacker**](https://desafio-hacker.netlify.app) – CTF de resolução de puzzles para acessar a última página do desafio.
 
-🔹 **Aplicação SQL + C** – Sistema desktop que integra **C com PostgreSQL**, permitindo operações em banco de dados para gerenciamento de unidades de biblioteca.  
+🔹 [**PassGEN**](https://pass-gen-online.netlify.app) – Gerador de senhas personalizadas com dicas de boas práticas em segurança digital.
+
+🔹 [**Landing Page**](https://th-platform.netlify.app/landing_page/) – Landing page para apresentação de informações e contato de uma empresa.
+
+🔹 [**SQL + C**](https://github.com/ththales/SQL-Plus-C) – Sistema desktop que integra **C com PostgreSQL**, permitindo operações em banco de dados para gerenciamento de unidades de biblioteca.
+
+🔹 [**Dungeon of Death**](https://github.com/ththales/Dungeon-of-Death) – Roguelike de texto baseado em exploração de dungeons desenvolvido em Linguagem C.
+
+🔹 [**Password Generator**](https://github.com/ththales/Password-Generator) – Um gerador de senhas personalizável desenvolvido em C, que permite criar múltiplas senhas de forma rápida e salvá-las em um arquivo de texto.
+
+🔹 [**Card Battle Game**](https://github.com/ththales/Card-Battle-Game) – Um jogo de batalha de cartas Co-op Local que dois jogadores se enfrentam com as suas cartas sorteadas.
 
 ---
 

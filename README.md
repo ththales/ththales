@@ -49,7 +49,7 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
 **Cursos Complementares**  
 - English for IT 1 – Cisco Networking Academy (2025)  
 - Programação em Python – CAAL (2025)  
-- C Programming Tutorial – freeCodeCamp (2024)  
+- C Programming Tutorial – Giraffe Academy (2024)  
 - Learn HTML - freeCodeCamp (2024)
 - Learn CSS - freeCodeCamp (2025)
 - Learn JavaScript - freeCodeCamp (2025)

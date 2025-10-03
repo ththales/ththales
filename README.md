@@ -29,6 +29,8 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
 
 🔹 [**PassGEN**](https://pass-gen-online.netlify.app) – Gerador de senhas personalizadas com dicas de boas práticas em segurança digital.
 
+🔹 [**TaskPad**](https://github.com/ththales/TaskPad) – To-do list usando HTML, CSS e JavaScript.
+
 🔹 [**Landing Page**](https://th-platform.netlify.app/landing_page/) – Landing page para apresentação de informações e contato de uma empresa.
 
 🔹 [**SQL + C**](https://github.com/ththales/SQL-Plus-C) – Sistema desktop que integra **C com PostgreSQL**, permitindo operações em banco de dados para gerenciamento de unidades de biblioteca.

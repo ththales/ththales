@@ -58,6 +58,13 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
 
 ---
 
+### 🌎 Onde me encontrar
+📧 [Email](mailto:ththalespuc05@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/thales-alves-araujo/)  
+🌐 [Portfólio](https://th-platform.netlify.app)
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -77,9 +84,3 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
   />
 
 </p>
-
-
-### 🌎 Onde me encontrar
-📧 [Email](mailto:ththalespuc05@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/thales-alves-araujo/)  
-🌐 [Portfólio](https://th-platform.netlify.app)

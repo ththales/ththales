@@ -3,7 +3,7 @@
 **`Desenvolvedor de Software`** 
 
 Prazer, sou o Thales e atualmente curso o 4º período de Ciência da Computação na PUC-GO, com foco em Desenvolvimento de Software e Aplicações.
-Possuo experiência prática em projetos acadêmicos e pessoais, atuando tanto em Front-End (HTML, CSS, JavaScript) quanto em Back-End (C, C++, SQL). Essa vivência me proporcionou uma base sólida em lógica de programação, resolução de problemas e desenvolvimento de soluções completas.
+Possuo experiência prática em projetos acadêmicos e pessoais, atuando tanto em Front-End (HTML, CSS, JavaScript) quanto em Back-End (Java, Python, C, C++, SQL). Essa vivência me proporcionou uma base sólida em lógica de programação, resolução de problemas e desenvolvimento de soluções completas.
 Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvimento de software, onde eu possa aplicar meus conhecimentos, contribuir para projetos reais e crescer junto à equipe, adquirindo experiência no mercado de tecnologia. 
 
 ---

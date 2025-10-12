@@ -1,4 +1,21 @@
 # 💻 Thales Alves
+<div align="center">
+  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif"  />
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/thales-alves-araujo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@th_thalesBR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/Th_GGBR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/341688568315510794" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
 **`Desenvolvedor de Software`** 
 
@@ -67,12 +84,6 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
 - Programação em Python – Centro Acadêmico de Engenharia da Computação da PUC Goiás (2025)  
 - C Programming Tutorial – Giraffe Academy (2024)
 - C++ Programming Tutorial – Giraffe Academy (2024)  
-
----
-
-### 🌎 Onde me encontrar
-📧 [Email](mailto:ththalespuc05@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/thales-alves-araujo/)  
 
 ---
 

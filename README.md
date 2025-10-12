@@ -1,6 +1,7 @@
 # Thales Alves
+<br>
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/ththales/ththales/main/assets/ai-grok.gif">
+  <img height="150" src="https://c.tenor.com/PLIr_VkF6ywAAAAC/tenor.gif">
 </div><br>
 
 <div align="center">

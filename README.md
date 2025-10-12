@@ -1,6 +1,6 @@
 # Thales Alves
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZWO8mBXzOiYffbj8bJ3COaP2hwWpPp9kyg&s">
+  <img height="150" src="https://github.com/ththales/ththales/blob/main/assets/ai-grok.gif">
 </div><br>
 
 <div align="center">

@@ -57,7 +57,7 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
 ### 🎓 Formação
 
 **Ciência da Computação** – Pontifícia Universidade Católica de Goiás (2024 – Presente)  
-- Algoritmos, fundamentos de computação, estruturas de dados, orientação a objetos, projeto de banco de dados, redes de computadores, engenharia de requisitos de software, arquitetura de computadores e hardware, cálculo computacional, geometria analítica.  
+- Algoritmos, fundamentos de computação, estruturas de dados, orientação a objetos, banco de dados, redes de computadores, engenharia de requisitos de software, arquitetura de computadores e hardware, cálculo computacional, geometria analítica.  
 
 **Cursos Complementares**  
 - English for IT 1 – Cisco Networking Academy (2025)

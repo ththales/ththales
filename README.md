@@ -60,13 +60,13 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
 - Algoritmos, fundamentos de computação, estruturas de dados, orientação a objetos, projeto de banco de dados, redes de computadores, engenharia de requisitos de software, arquitetura de computadores e hardware, cálculo computacional, geometria analítica.  
 
 **Cursos Complementares**  
-- English for IT 1 – Cisco Networking Academy (2025)  
-- Programação em Python – Centro Acadêmico de Engenharia da Computação da PUC Goiás (2025)  
-- C Programming Tutorial – Giraffe Academy (2024)
-- C++ Programming Tutorial – Giraffe Academy (2024)  
+- English for IT 1 – Cisco Networking Academy (2025)
 - Learn HTML - freeCodeCamp (2024)
 - Learn CSS - freeCodeCamp (2025)
 - Learn JavaScript - freeCodeCamp (2025)
+- Programação em Python – Centro Acadêmico de Engenharia da Computação da PUC Goiás (2025)  
+- C Programming Tutorial – Giraffe Academy (2024)
+- C++ Programming Tutorial – Giraffe Academy (2024)  
 
 ---
 

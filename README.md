@@ -1,7 +1,7 @@
 # Thales Alves
 <br>
 <div align="center">
-  <img height="150" src="https://c.tenor.com/PLIr_VkF6ywAAAAC/tenor.gif">
+  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif">
 </div><br>
 
 <div align="center">

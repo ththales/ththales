@@ -1,7 +1,8 @@
 # 💻 Thales Alves
 <div align="center">
-  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif"  />
-</div>
+  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZWO8mBXzOiYffbj8bJ3COaP2hwWpPp9kyg&s">
+</div><br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/thales-alves-araujo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />

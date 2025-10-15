@@ -98,7 +98,7 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ththales&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=2" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ththales&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" 
   />
 
 </p>

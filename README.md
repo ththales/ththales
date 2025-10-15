@@ -91,7 +91,7 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ththales&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=3" 
+    src="https://github-readme-stats.vercel.app/api?username=ththales&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" 
   />
 
 <img 

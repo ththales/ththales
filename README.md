@@ -1,89 +1,89 @@
 # Thales Alves
-<br>
 <div align="center">
-  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif">
-</div><br>
-
-<div align="center">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" title="@thales-alves-araujo"  />
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" title="@th_thales05"  />
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" title="@Th_GGBR"  />
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" title="@th_thalesBR"  />
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" title="@th_gg"  />
+  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="hacker cat">
 </div>
-<br>
 
-**`Desenvolvedor de Software`** 
-
-Prazer, sou o Thales e atualmente curso o 4º período de Ciência da Computação na PUC-GO, com foco em Desenvolvimento de Software e Aplicações.
-Possuo experiência prática em projetos acadêmicos e pessoais, atuando tanto em Front-End (HTML, CSS, JavaScript) quanto em Back-End (Java, Python, C, C++, SQL). Essa vivência me proporcionou uma base sólida em lógica de programação, resolução de problemas e desenvolvimento de soluções completas.
-Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvimento de software, onde eu possa aplicar meus conhecimentos, contribuir para projetos reais e crescer junto à equipe, adquirindo experiência no mercado de tecnologia. 
+<div align="center">
+  <a href="https://www.linkedin.com/in/thales-alves-araujo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/th_thales05/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/Th_GGBR" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="Twitter"/>
+  </a>
+  <a href="https://www.youtube.com/@th_thalesBR" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="YouTube"/>
+  </a>
+  <a href="https://discord.com/users/th_gg" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord"/>
+  </a>
+</div>
 
 ---
 
-### 🛠️ Skills
+## 💻 Sobre mim
+
+Olá! Eu sou o **Thales Alves**, atualmente cursando o 4º período de **Ciência da Computação** na **PUC-GO**. Tenho paixão por desenvolvimento de software e aplicações, com experiência prática em **Front-End** (HTML, CSS, JavaScript) e **Back-End** (Java, Python, C, C++, SQL).  
+Minha experiência me proporcionou uma base sólida em **lógica de programação**, **resolução de problemas** e **desenvolvimento de soluções completas**.  
+Estou em busca da minha primeira oportunidade de estágio, onde possa aplicar meus conhecimentos, contribuir para projetos reais e crescer junto a uma equipe de tecnologia.
+
+---
+
+## 🛠️ Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" height="40" alt="c logo" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="C" title="C" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
 ---
 
-### 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
-🔹 [**ThPlatform**](https://th-platform.netlify.app) – Minha plataforma web onde divulgo meus trabalhos, conteúdos de autoria própria, projetos, livros, guias e aplicações.
-
-🔹 [**The Hidden Web**](https://the-hidden-web.netlify.app) – Jogo investigativo **não-linear** que simula a exploração de um indexador fictício de links, com enigmas e criptografia.  
-
-🔹 [**Desafio Hacker**](https://desafio-hacker.netlify.app) – CTF de resolução de puzzles para acessar a última página do desafio.
-
-🔹 [**PassGEN**](https://pass-gen-online.netlify.app) – Gerador de senhas personalizadas com dicas de boas práticas em segurança digital.
-
-🔹 [**TaskPad**](https://task-pad-project.netlify.app) – To-do list usando HTML, CSS e JavaScript.
-
-🔹 [**Landing Page**](https://th-platform.netlify.app/landing_page/) – Landing page para apresentação de informações e contato de uma empresa.
-
-🔹 [**SQL + C**](https://github.com/ththales/SQL-Plus-C) – Sistema desktop que integra **C com PostgreSQL**, permitindo operações em banco de dados para gerenciamento de unidades de biblioteca.
-
-🔹 [**Dungeon of Death**](https://github.com/ththales/Dungeon-of-Death) – Roguelike de texto baseado em exploração de dungeons desenvolvido em Linguagem C.
-
-🔹 [**Password Generator**](https://github.com/ththales/Password-Generator) – Um gerador de senhas personalizável desenvolvido em C, que permite criar múltiplas senhas de forma rápida e salvá-las em um arquivo de texto.
-
-🔹 [**Card Battle Game**](https://github.com/ththales/Card-Battle-Game) – Um jogo de batalha de cartas Co-op Local que dois jogadores se enfrentam com as suas cartas sorteadas.
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| **ThPlatform** | Plataforma web para divulgar trabalhos, projetos, livros, guias e aplicações | [Acessar](https://th-platform.netlify.app) |
+| **The Hidden Web** | Jogo investigativo não-linear com enigmas e criptografia | [Acessar](https://the-hidden-web.netlify.app) |
+| **Desafio Hacker** | CTF de puzzles para acessar a última página | [Acessar](https://desafio-hacker.netlify.app) |
+| **PassGEN** | Gerador de senhas personalizadas com boas práticas de segurança | [Acessar](https://pass-gen-online.netlify.app) |
+| **TaskPad** | To-do list interativa em HTML, CSS e JavaScript | [Acessar](https://task-pad-project.netlify.app) |
+| **Landing Page** | Página de apresentação de empresa | [Acessar](https://th-platform.netlify.app/landing_page/) |
+| **SQL + C** | Sistema desktop integrando C com PostgreSQL | [Repositório](https://github.com/ththales/SQL-Plus-C) |
+| **Dungeon of Death** | Roguelike de texto em C baseado em exploração | [Repositório](https://github.com/ththales/Dungeon-of-Death) |
+| **Password Generator** | Gerador de senhas em C com salvamento em arquivo | [Repositório](https://github.com/ththales/Password-Generator) |
+| **Card Battle Game** | Jogo de batalha de cartas Co-op local | [Repositório](https://github.com/ththales/Card-Battle-Game) |
 
 ---
 
-### 🎓 Formação
+## 🎓 Formação
 
 **Ciência da Computação** – Pontifícia Universidade Católica de Goiás (2024 – Presente)  
-- Algoritmos, fundamentos de computação, estruturas de dados, orientação a objetos, banco de dados, redes de computadores, engenharia de requisitos de software, arquitetura e hardware de computadores, cálculo computacional, geometria analítica.  
+- Algoritmos, estruturas de dados, orientação a objetos, banco de dados, redes, engenharia de software, arquitetura e hardware de computadores, cálculo computacional e geometria analítica.
 
-**Cursos Complementares**  
-- English for IT 1 – Cisco Networking Academy (2025)
-- Learn HTML - freeCodeCamp (2024)
-- Learn CSS - freeCodeCamp (2025)
-- Learn JavaScript - freeCodeCamp (2025)
-- Programação em Python – Centro Acadêmico de Engenharia da Computação da PUC Goiás (2025)  
-- C Programming Tutorial – Giraffe Academy (2024)
-- C++ Programming Tutorial – Giraffe Academy (2024)  
+**Cursos Complementares:**  
+- English for IT 1 – Cisco Networking Academy (2025)  
+- Learn HTML, CSS, JavaScript – freeCodeCamp (2024-2025)  
+- Programação em Python – PUC Goiás (2025)  
+- C e C++ Programming – Giraffe Academy (2024)  
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
 <p>
   <img 
@@ -91,14 +91,12 @@ Meu objetivo é conquistar minha primeira oportunidade de estágio em desenvolvi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ththales&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=2" 
+    src="https://github-readme-stats.vercel.app/api?username=ththales&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ththales&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=5" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ththales&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" 
   />
-
 </p>

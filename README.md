@@ -52,6 +52,7 @@ Olá! Eu sou o **Thales Alves**, atualmente cursando o 4º período de **Ciênci
 | **TaskPad** | To-do list interativa em HTML, CSS e JavaScript | [Acessar](https://task-pad-project.netlify.app) |
 | **Landing Page** | Página de apresentação de empresa | [Acessar](https://th-platform.netlify.app/landing_page/) |
 | **SQL + C** | Sistema desktop integrando C com PostgreSQL | [Repositório](https://github.com/ththales/SQL-Plus-C) |
+| **MD5 Cracker** | Cracker de Hashes MD5 baseado em wordlists | [Repositório](https://github.com/ththales/MD5-Cracker) |
 | **Dungeon of Death** | Roguelike de texto em C baseado em exploração | [Repositório](https://github.com/ththales/Dungeon-of-Death) |
 | **Password Generator** | Gerador de senhas em C com salvamento em arquivo | [Repositório](https://github.com/ththales/Password-Generator) |
 | **Card Battle Game** | Jogo de batalha de cartas Co-op local | [Repositório](https://github.com/ththales/Card-Battle-Game) |

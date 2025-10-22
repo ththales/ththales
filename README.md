@@ -68,7 +68,7 @@ Estou em busca da minha primeira oportunidade de estágio, onde possa aplicar me
 **Cursos Complementares:**  
 - English for IT 1 – Cisco Networking Academy (2025)  
 - Learn HTML, CSS, JavaScript – freeCodeCamp (2024-2025)  
-- Introdução à Programação em Python – Centro Acadêmico de Engenharia da Computação da PUC Goiás (2025)  
+- Introdução à Programação em Python – Centro Acadêmico de Engenharia de Computação da PUC Goiás (2025)  
 - C e C++ Programming – Giraffe Academy (2024)  
 
 ---

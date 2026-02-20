@@ -15,7 +15,7 @@
 
 ## 💻 Sobre mim
 
-Olá! Eu sou o **Thales Alves**, atualmente cursando o 4º período de **Ciência da Computação** na **PUC-GO**. Tenho paixão por desenvolvimento de software e aplicações, com experiência prática em **Front-End** (HTML, CSS, JavaScript) e **Back-End** (Java, Python, C, C++, SQL).  
+Olá! Eu sou o **Thales Alves**, atualmente cursando o 5º período de **Ciência da Computação** na **PUC-GO**. Tenho paixão por desenvolvimento de software e aplicações, com experiência prática em **Front-End** (HTML, CSS, JavaScript) e **Back-End** (Java, Python, C, C++, SQL).  
 
 ---
 

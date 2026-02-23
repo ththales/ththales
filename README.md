@@ -46,6 +46,7 @@ Olá! Eu sou o **Thales Alves**, atualmente cursando o 5º período de **Ciênci
 | Projeto | Descrição | Link |
 |---------|-----------|------|
 | **ThPlatform** | Plataforma web para divulgar trabalhos, projetos, livros, guias e aplicações | [Acessar](https://th-platform.netlify.app) |
+| **The Last Crime** | Projeto de análise forense de imagem de disco fictícia | [Acessar](https://the-last-crime.netlify.app) |
 | **The Hidden Web** | Jogo investigativo não-linear com enigmas e criptografia | [Acessar](https://the-hidden-web.netlify.app) |
 | **Desafio Hacker** | CTF de puzzles para acessar a última página | [Acessar](https://desafio-hacker.netlify.app) |
 | **PassGEN** | Gerador de senhas personalizadas com boas práticas de segurança | [Acessar](https://pass-gen-online.netlify.app) |

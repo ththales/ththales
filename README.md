@@ -52,6 +52,7 @@ Olá! Eu sou o **Thales Alves**, atualmente cursando o 5º período de **Ciênci
 | **PassGEN** | Gerador de senhas personalizadas com boas práticas de segurança | [Acessar](https://pass-gen-online.netlify.app) |
 | **TaskPad** | To-do list interativa em HTML, CSS e JavaScript | [Acessar](https://task-pad-project.netlify.app) |
 | **Landing Page** | Página de apresentação de empresa | [Acessar](https://th-platform.netlify.app/landing_page/) |
+| **POZ** | Jogo de sobrevivência desenvolvido em Java utilizando a engine Greenfoot | [Repositório](https://github.com/ththales/POZ)
 | **SQL + C** | Sistema desktop integrando C com PostgreSQL | [Repositório](https://github.com/ththales/SQL-Plus-C) |
 | **MD5 Cracker** | Cracker de Hashes MD5 baseado em wordlists | [Repositório](https://github.com/ththales/MD5-Cracker) |
 | **Guia de Computação Forense** | Guia para iniciar os estudos na área de forense | [Repositório](https://github.com/ththales/Computacao-Forense) |

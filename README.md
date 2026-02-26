@@ -54,6 +54,7 @@ Olá! Eu sou o **Thales Alves**, atualmente cursando o 5º período de **Ciênci
 | **Landing Page** | Página de apresentação de empresa | [Acessar](https://th-platform.netlify.app/landing_page/) |
 | **SQL + C** | Sistema desktop integrando C com PostgreSQL | [Repositório](https://github.com/ththales/SQL-Plus-C) |
 | **MD5 Cracker** | Cracker de Hashes MD5 baseado em wordlists | [Repositório](https://github.com/ththales/MD5-Cracker) |
+| **Guia de Computação Forense** | Guia para iniciar os estudos na área de forense | [Repositório](https://github.com/ththales/Computacao-Forense) |
 | **Dungeon of Death** | Roguelike de texto em C baseado em exploração | [Repositório](https://github.com/ththales/Dungeon-of-Death) |
 | **Password Generator** | Gerador de senhas em C com salvamento em arquivo | [Repositório](https://github.com/ththales/Password-Generator) |
 | **Card Battle Game** | Jogo de batalha de cartas Co-op local | [Repositório](https://github.com/ththales/Card-Battle-Game) |

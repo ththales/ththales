@@ -66,7 +66,7 @@ Olá! Eu sou o **Thales Alves**, atualmente cursando o 5º período de **Ciênci
 ## 🎓 Formação
 
 **Ciência da Computação** – Pontifícia Universidade Católica de Goiás (2024 – Presente)  
-- Algoritmos, estruturas de dados, orientação a objetos, banco de dados, redes, engenharia de software, arquitetura e hardware de computadores, cálculo computacional e geometria analítica.
+- Algoritmos, estruturas de dados, orientação a objetos, banco de dados, redes, sistemas operacionais, engenharia de software, arquitetura e hardware de computadores, cálculo computacional, geometria analítica, otimização e modelagem de problemas.
 
 **Cursos Complementares:**  
 - English for IT 1 – Cisco Networking Academy (2025)  

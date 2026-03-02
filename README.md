@@ -1,6 +1,6 @@
 # Thales Alves
 <div align="center">
-  <img height="150" src="[Coding]([https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif](https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif))]([https://c.tenor.com/S0UZA8gkgkgAAAAC/tenor.gif](https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif))" alt="hacker cat">
+  <img height="150" src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" alt="hacker cat">
 </div>
 
 <div align="center">

@@ -1,6 +1,6 @@
 # Thales Alves
 <div align="center">
-  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="hacker cat">
+  <img height="150" src="[https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif](https://c.tenor.com/S0UZA8gkgkgAAAAC/tenor.gif)" alt="hacker cat">
 </div>
 
 <div align="center">

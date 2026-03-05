@@ -15,7 +15,7 @@
 
 ## 💻 Sobre mim
 
-Olá! Eu sou o **Thales Alves**, estudante de Ciência da Computação focado em desenvolvimento de software, com interesse em desenvolvimento de software, segurança da informação, computação forense e engenharia de software.  
+Olá! Eu sou o Thales Alves, estudante de Ciência da Computação focado em desenvolvimento de software, com interesse em desenvolvimento de software, segurança da informação, computação forense e engenharia de software.  
 Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e programação de sistemas em C, C++, Java e Python.
 
 ---

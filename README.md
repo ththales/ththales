@@ -74,7 +74,8 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 - English for IT 1 – Cisco Networking Academy (2025)  
 - Learn HTML, CSS, JavaScript – freeCodeCamp (2024-2025)  
 - Introdução à Programação em Python – Centro Acadêmico de Engenharia de Computação da PUC Goiás (2025)  
-- C e C++ Programming – Giraffe Academy (2024)  
+- C e C++ Programming – Giraffe Academy (2024)
+- The Complete Full-Stack Web Development Bootcamp (2026 - Em andamento)
 
 ---
 

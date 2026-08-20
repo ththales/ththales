@@ -65,7 +65,7 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 
 ## 🎓 Formação
 
-**Ciência da Computação** – 5° Período (2024 – Presente)  
+**Ciência da Computação** – 6° Período (2024 – Presente)  
 - Algoritmos, estruturas de dados, orientação a objetos, banco de dados, redes, sistemas operacionais, engenharia de software, arquitetura e hardware de computadores, cálculo computacional, geometria analítica, otimização e modelagem de problemas.
 
 **Cursos Complementares:**  

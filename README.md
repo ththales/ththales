@@ -59,8 +59,6 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 | **LAB Forense** | Laboratório iniciante para práticas em Computação forense | [Repositório](https://github.com/ththales/LAB-FORENSE) |
 | **Dungeon of Death** | Roguelike de texto em C baseado em exploração | [Repositório](https://github.com/ththales/Dungeon-of-Death) |
 | **Password Generator** | Gerador de senhas em C com salvamento em arquivo | [Repositório](https://github.com/ththales/Password-Generator) |
-| **Card Battle Game** | Jogo de batalha de cartas Co-op local | [Repositório](https://github.com/ththales/Card-Battle-Game) |
-| **QR Generator** | Gerador de QR-Code dado um link | [Repositório](https://github.com/ththales/QR-Generator) |
 
 ---
 

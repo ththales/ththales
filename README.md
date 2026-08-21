@@ -9,14 +9,14 @@
 
 ---
 
-## 💻 Sobre mim
+## Sobre mim
 
 Olá! Eu sou o Thales, estudante de Ciência da Computação focado em desenvolvimento de software e com interesse em outras áreas como segurança da informação, computação forense e engenharia de software.  
 Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e programação de sistemas em C, C++, Java e Python.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
@@ -40,7 +40,7 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 
 ---
 
-## 🚀 Projetos em destaque
+## Top 10 Projetos Mais Relevantes
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
@@ -62,7 +62,7 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 
 ---
 
-## 🎓 Formação
+## Formação Acadêmica
 
 **Ciência da Computação** – 6° Período (2024 – Presente)  
 - Algoritmos, estruturas de dados, orientação a objetos, banco de dados, redes, sistemas operacionais, engenharia de software, arquitetura e hardware de computadores, cálculo computacional, geometria analítica, otimização e modelagem de problemas.
@@ -76,14 +76,14 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ththales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ththales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ththales&layout=compact&theme=tokyonight&hide_border=true"/> -->
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ththales&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
-<img height="170" src="https://streak-stats.demolab.com?user=ththales&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://streak-stats.demolab.com?user=ththales&theme=tokyonight&hide_border=true"/> -->
 
 </div>

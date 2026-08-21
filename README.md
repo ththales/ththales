@@ -51,7 +51,7 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 | **PassGEN** | Gerador de senhas personalizadas com boas práticas de segurança | [Acessar](https://pass-gen-online.netlify.app) |
 | **TaskPad** | To-do list interativa em HTML, CSS e JavaScript | [Acessar](https://task-pad-project.netlify.app) |
 | **Landing Page** | Página de apresentação de empresa | [Acessar](https://th-platform.netlify.app/landing_page/) |
-| **Th's Place** | Projeto de site pessoal para reunir conteúdos, tutoriais, projetos, materiais de estudo, etc | [Acessar](https://thplace.netlify.app/) |
+| **Th's Place** | Projeto de site pessoal para reunir conteúdos, projetos, materiais de estudo, etc | [Acessar](https://thplace.netlify.app/) |
 | **POZ** | Jogo de sobrevivência desenvolvido em Java utilizando a engine Greenfoot | [Repositório](https://github.com/ththales/POZ)
 | **SQL + C** | Sistema desktop integrando C com PostgreSQL | [Repositório](https://github.com/ththales/SQL-Plus-C) |
 | **MD5 Cracker** | Cracker de Hashes MD5 baseado em wordlists | [Repositório](https://github.com/ththales/MD5-Cracker) |

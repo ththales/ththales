@@ -75,9 +75,3 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 - C e C++ Programming – Giraffe Academy (2024)
 
 ---
-
-## GitHub Stats
-
-[![Thales' GitHub stats](https://github-readme-stats.vercel.app/api?username=ththales)](https://github.com/ththales)
-
-</div>

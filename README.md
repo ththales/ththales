@@ -78,6 +78,6 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 
 ## GitHub Stats
 
-[![ThThales's GitHub stats](https://github-readme-stats.vercel.app/api?username=ththales)](https://github.com/ththales/github-readme-stats)
+[![Thales' GitHub stats](https://github-readme-stats.vercel.app/api?username=ththales)](https://github.com/ththales)
 
 </div>

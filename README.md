@@ -78,12 +78,6 @@ Possuo experiência prática com desenvolvimento web (HTML, CSS, JavaScript) e p
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ththales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ththales&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=ththales&theme=tokyonight&hide_border=true"/>
+[![ThThales's GitHub stats](https://github-readme-stats.vercel.app/api?username=ththales)](https://github.com/ththales/github-readme-stats)
 
 </div>

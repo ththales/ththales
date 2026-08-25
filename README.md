@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou o Thales, estudante de Ciência da Computação focado em desenvolvimento de software e com interesse em outras áreas como segurança da informação, computação forense e engenharia de software. Possuo experiência prática em Desenvolvimento Web e programação de aplicativos desktop em C, C++, Java e Python.
+Olá! Eu sou o Thales, estudante de Ciência da Computação focado em desenvolvimento de software e com interesse em outras áreas como segurança da informação, computação forense e engenharia de software. Possuo experiência prática em projetos nas áreas de Desenvolvimento Web e Aplicações Desktop.
 
 ---
 
